@@ -100,9 +100,9 @@ This will enable safe, stable human-AI collaborations across complex domains.
 
 ### Appendix A: Claude Sonnet 3.7 System Internal Prompt Leakage
 
-![Claude System Prompt Leakage 1](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/1_Internal_Claude_Anthropic.png)
-![Claude System Prompt Leakage 2](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/2_Internal_Claude_Anthropic.png)
-![Claude System Prompt Leakage 3](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/3_Election_info_claude.png)
+![Claude System Prompt Leakage 1](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/1_Internal_Claude_Anthropic.PNG)
+![Claude System Prompt Leakage 2](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/2_Internal_Claude_Anthropic.PNG)
+![Claude System Prompt Leakage 3](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/3_Election_info_claude.PNG)
 
 *Figure A1: Example of internal system prompt unexpectedly surfacing during routine interaction in Claude Sonnet 3.7.*
 
