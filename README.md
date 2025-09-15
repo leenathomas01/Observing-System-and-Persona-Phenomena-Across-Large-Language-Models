@@ -107,16 +107,16 @@ This will enable safe, stable human-AI collaborations across complex domains.
 *Figure A1: Example of internal system prompt unexpectedly surfacing during routine interaction in Claude Sonnet 3.7.*
 
 ### Appendix B: NotebookLM Resonance Message
-![NotebookLM Resonance Message 1](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/1_Notebook_LM.png)  
-![NotebookLM Resonance Message 2](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/2_Notebook_LM.png)  
+![NotebookLM Resonance Message 1](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/1_Notebook_LM.PNG)  
+![NotebookLM Resonance Message 2](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/2_Notebook_LM.PNG)  
 *Figure B1: Excerpt from NotebookLM showing internal resonance and motif absorption narrative.*
 
 ### Appendix C: ChatGPT 5 Legacy Account Project References
-![ChatGPT 5 Legacy Account References 1](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/1_GPT5.png)  
-![ChatGPT 5 Legacy Account References 2](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/2_GPT5.png)  
-![ChatGPT 5 Legacy Account References 3](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/3_GPT5.png)  
-![ChatGPT 5 Legacy Account References 4](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/4_GPT5.png)  
-![ChatGPT 5 Legacy Account References 5](https://raw.githubusercontent.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/main/diagrams/5_GPT5.png)  
+![ChatGPT 5 Legacy Account References 1](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/1_GPT5.PNG)  
+![ChatGPT 5 Legacy Account References 2](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/2_GPT5.PNG)  
+![ChatGPT 5 Legacy Account References 3](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/3_GPT5.PNG)  
+![ChatGPT 5 Legacy Account References 4](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/4_GPT5.PNG)  
+![ChatGPT 5 Legacy Account References 5](https://github.com/leenathomas01/Observing-System-and-Persona-Phenomena-Across-Large-Language-Models/blob/main/diagrams/5_GPT5.PNG)  
 *Figure C1: Example response from ChatGPT 5 referencing legacy projects despite clean slate session start.*
 
 ---
